@@ -1,2 +1,2 @@
-## End TO End ML Porject Pipeline
+## End TO End ML Project Pipeline
  
